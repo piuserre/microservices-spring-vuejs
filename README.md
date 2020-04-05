@@ -11,6 +11,7 @@ Run the server side:
 * Microservice Car
 * Microservice User
 
+For each part:
 ```bash
 mvn spring-boot:run
 ```
