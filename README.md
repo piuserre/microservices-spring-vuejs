@@ -1,6 +1,6 @@
 # Car rent application
 
-This is a simple car rent application in Spring-Boot and Vue.js
+This is a simple car rent application in Spring Boot and Vue.js
 
 ## Installation of the server side
 
