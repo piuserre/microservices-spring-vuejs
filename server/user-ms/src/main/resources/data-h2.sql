@@ -7,4 +7,4 @@ CREATE TABLE users (
   role varchar(10) NOT NULL,
   PRIMARY KEY (id),
   UNIQUE KEY UK_username (username)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+) ;
